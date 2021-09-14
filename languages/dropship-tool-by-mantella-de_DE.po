@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dropship-tool-by-mantella-de_DE\n"
+"POT-Creation-Date: 2020-08-12 23:22+0530\n"
+"PO-Revision-Date: 2021-05-12 20:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: dropship-tool-by-mantella\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;__;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages\n"
+"X-Poedit-SearchPath-2: languages\n"
+
+#: core/mantella_order_update_track.php:1
+msgid "Send to Supplier"
+msgstr "An Lieferanten senden"
+
+#: core/mantella_order_update_track.php:1
+msgid "Order is already placed."
+msgstr "Die Bestellung ist bereits aufgegeben."
+
+#: core/mantella_order_update_track.php:1
+msgid "There is no track & trace available. Please try again later"
+msgstr "Es ist kein Track & Trace verfügbar. Bitte versuchen Sie es später noch einmal"
+
+#: core/mantella_order_update_track.php:1
+msgid "Tracking Code"
+msgstr "Verfolgungscode"
+
+#: core/mantella_order_update_track.php:1
+msgid "Tracking Status"
+msgstr "Verfolgungsstatus"
+
+#: core/mantella_order_update_track.php:1
+msgid "Parcel Details"
+msgstr "Paketdetails"
+
+#: core/mantella_order_update_track.php:1
+msgid "Get Track & Trace Update"
+msgstr "Track & Trace-Update erhalten"
+
+#: core/mantella_order_update_track.php:1
+msgid "Order Updated Successfully."
+msgstr "Bestellung erfolgreich aktualisiert."
+
+#: core/mantella_order_update_track.php:1
+msgid "Update Order Status"
+msgstr "Bestellstatus aktualisieren"
+
+#: core/mantella_order_update_track.php:1
+msgid "Close"
+msgstr "Schließen"
+
+#: dropship-tool-by-mantella.php:52 templates/mantella_template.php:731 templates/mantella_template.php:1039 templates/mantella_template.php:1351
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: templates/mantella_template.php:211
+msgid "The plugin is connected to "
+msgstr "Das Plugin ist verbunden mit "
+
+#: templates/mantella_template.php:275
+msgid "It takes "
+msgstr "Es dauert "
+
+#: templates/mantella_template.php:275
+msgid " seconds to execute the script."
+msgstr " Sekunden, um das Skript auszuführen."
+
+#: templates/mantella_template.php:297
+msgid "Saved successfully."
+msgstr "Gespeichert."
+
+#: templates/mantella_template.php:331 templates/mantella_template.php:345
+msgid "Your Dropship Tool license key is invalid. Product stock will not be checked and product information will not be updated."
+msgstr "Ihre Lizenz ist ungültig. Produktinformationen wie Lagerbestand und Preis werden nicht aktualisiert."
+
+#: templates/mantella_template.php:485
+msgid "there is already an import running in the background."
+msgstr "eine Importaufgabe bereits aktiv ist."
+
+#: templates/mantella_template.php:551 templates/mantella_template.php:749
+msgid "The import will start soon. It can take some time for it to finish. Please be patient"
+msgstr "Der Import wird bald beginnen und kann einige Zeit in Anspruch nehmen."
+
+#: templates/mantella_template.php:717
+msgid "Dropship tool by Mantella"
+msgstr "Dropship tool by Mantella"
+
+#: templates/mantella_template.php:727
+msgid "General"
+msgstr "Allgemein"
+
+#: templates/mantella_template.php:733
+msgid "Support"
+msgstr "Unterstützung"
+
+#: templates/mantella_template.php:779
+msgid "Start the import"
+msgstr "Starten Sie den Import"
+
+#: templates/mantella_template.php:811
+msgid "At this moment the plugin is importing your products into your webshop."
+msgstr "In diesem Moment importiert das Plugin Ihre Produkte in Ihren Webshop."
+
+#: templates/mantella_template.php:815
+msgid "So far "
+msgstr "Soweit "
+
+#: templates/mantella_template.php:819
+msgid " products have been imported and updated."
+msgstr " Produkte importiert und aktualisiert worden sind."
+
+#: templates/mantella_template.php:835
+msgid "Stop the import and update process"
+msgstr "Stoppen des Import- und Aktualisierungsprozesses"
+
+#: templates/mantella_template.php:855
+msgid "Import & Update products in your webshop"
+msgstr "Produkte in Ihren Webshop importieren & aktualisieren"
+
+#: templates/mantella_template.php:947 templates/mantella_template.php:1277
+msgid "The license key is valid and active"
+msgstr "Der Lizenzschlüssel ist gültig und aktiv"
+
+#: templates/mantella_template.php:953 templates/mantella_template.php:1283
+msgid "The license key is invalid. Please contact Mantells Support"
+msgstr "Der Lizenzschlüssel ist ungültig. Bitte kontaktieren Sie den Mantella-Support"
+
+#: templates/mantella_template.php:959 templates/mantella_template.php:1289
+msgid "License key field is blank"
+msgstr "Das Lizenzschlüsselfeld ist leer"
+
+#: templates/mantella_template.php:965 templates/mantella_template.php:1295
+msgid "Invalid license key"
+msgstr "Ungültiger Lizenzschlüssel"
+
+#: templates/mantella_template.php:1001 templates/mantella_template.php:1311
+msgid "License"
+msgstr "Lizenz"
+
+#: templates/mantella_template.php:1011 templates/mantella_template.php:1321
+msgid "LICENSE KEY"
+msgstr "Lizenzschlüssel"
+
+#: templates/mantella_template.php:1015 templates/mantella_template.php:1325
+msgid "Enter your license key"
+msgstr "Geben Sie Ihren Lizenzschlüssel ein"
+
+#: templates/mantella_template.php:1023
+msgid "Tooltip 1"
+msgstr ""
+"Geben Sie hier Ihren Lizenzcode ein. \n"
+"\n"
+"Diesen Lizenzcode finden Sie in : Ben Adenle for key - datapitch@gmail.com or +2348099999928."
+
+#: templates/mantella_template.php:1023 templates/mantella_template.php:1089 templates/mantella_template.php:1135 templates/mantella_template.php:1173 templates/mantella_template.php:1211
+#: templates/mantella_template.php:1249 templates/mantella_template.php:1333 templates/mantella_template.php:1401 templates/mantella_template.php:1447 templates/mantella_template.php:1485
+#: templates/mantella_template.php:1523 templates/mantella_template.php:1561
+msgid "with"
+msgstr ""
+
+#: templates/mantella_template.php:1023 templates/mantella_template.php:1089 templates/mantella_template.php:1135 templates/mantella_template.php:1173 templates/mantella_template.php:1211
+#: templates/mantella_template.php:1249 templates/mantella_template.php:1333 templates/mantella_template.php:1401 templates/mantella_template.php:1447 templates/mantella_template.php:1485
+#: templates/mantella_template.php:1523 templates/mantella_template.php:1561
+msgid "HTML"
+msgstr ""
+
+#: templates/mantella_template.php:1049 templates/mantella_template.php:1361
+msgid "What information do you want to update?"
+msgstr "Welche Informationen möchten Sie aktualisieren?"
+
+#: templates/mantella_template.php:1057 templates/mantella_template.php:1369
+msgid "Stock"
+msgstr "Bestand"
+
+#: templates/mantella_template.php:1065 templates/mantella_template.php:1377
+msgid "Prices"
+msgstr "Preise"
+
+#: templates/mantella_template.php:1073 templates/mantella_template.php:1385
+msgid "Categories"
+msgstr "Kategorien"
+
+#: templates/mantella_template.php:1081 templates/mantella_template.php:1393
+msgid "All Product information"
+msgstr "Alle Produktinformationen"
+
+#: templates/mantella_template.php:1089
+msgid "Tooltip 2"
+msgstr ""
+"Wählen Sie aus, welche Informationen Sie im Import- und Aktualisierungsprozess vorhandene Artikel aktualisieren möchten. \n"
+"Wenn Sie alle Informationen aktualisieren, werden auch Titel, Beschreibung, Kategorie usw. geändert."
+
+#: templates/mantella_template.php:1103 templates/mantella_template.php:1415
+msgid "Choose import product language"
+msgstr "Sprache für Importprodukt wählen"
+
+#: templates/mantella_template.php:1135
+msgid "Tooltip 3"
+msgstr "In dieser Sprache werden die Produkte in den Webshop importiert."
+
+#: templates/mantella_template.php:1149 templates/mantella_template.php:1461
+msgid "Update product information"
+msgstr "Produktinformationen aktualisieren"
+
+#: templates/mantella_template.php:577 templates/mantella_template.php:733
+msgid "Every 5 minutes"
+msgstr "Jede 5 Minuten"
+
+#: templates/mantella_template.php:577 templates/mantella_template.php:733
+msgid "Every quarter"
+msgstr "Jede fünfzehn Minuten"
+
+#: templates/mantella_template.php:577 templates/mantella_template.php:733
+msgid "Every half hour"
+msgstr "Jede halbe Stunde"
+
+#: templates/mantella_template.php:1155 templates/mantella_template.php:1467
+msgid "Every hour"
+msgstr "Jede Stunde"
+
+#: templates/mantella_template.php:1157 templates/mantella_template.php:1469
+msgid "Every 2 hours"
+msgstr "Jede 2 Stunden"
+
+#: templates/mantella_template.php:1159 templates/mantella_template.php:1471
+msgid "Every 4 hours"
+msgstr "Jede 4 Stunden"
+
+#: templates/mantella_template.php:1161 templates/mantella_template.php:1473
+msgid "Every 6 hours"
+msgstr "Jede 6 Stunden"
+
+#: templates/mantella_template.php:1163 templates/mantella_template.php:1475
+msgid "Every 12 hours"
+msgstr "Jede 12 Stunden"
+
+#: templates/mantella_template.php:1165 templates/mantella_template.php:1477
+msgid "Every 24 hours"
+msgstr "Jede 24 Stunden"
+
+#: templates/mantella_template.php:1173
+msgid "Tooltip 4"
+msgstr "Wählen Sie das Intervall für die Aktualisierung des Produktbestands im Webshop. Wir empfehlen, sie so niedrig wie möglich zu halten, vorzugsweise “jede Stunde”."
+
+#: templates/mantella_template.php:1187 templates/mantella_template.php:1499
+msgid "Want to show EAN in frontend?"
+msgstr "Möchten Sie EAN im Frontend zeigen?"
+
+#: templates/mantella_template.php:593 templates/mantella_template.php:749
+msgid "Want to show Brand in frontend?"
+msgstr "Möchten Sie die Marke im Frontend anzeigen?"
+
+#: templates/mantella_template.php:1195 templates/mantella_template.php:1507
+msgid "Yes"
+msgstr "Ja"
+
+#: templates/mantella_template.php:1203 templates/mantella_template.php:1515
+msgid "No"
+msgstr "Nein"
+
+#: templates/mantella_template.php:1211
+msgid "Tooltip 5"
+msgstr ""
+"Der EAN-Code des Produkts wird zusammen mit der Produktinformation im Webshop angezeigt. \n"
+"Es ist möglich, dies auf Produktebene mit der Produktinformation zu deaktivieren."
+
+#: templates/mantella_template.php:806
+msgid "Tooltip 51"
+msgstr ""
+"Die Marke dieses Produkts wird in der Produktinformation im Webshop angezeigt. \n"
+"Es ist möglich, dies auf Produktebene in der Produktinformation zu deaktivieren."
+
+#: templates/mantella_template.php:1225 templates/mantella_template.php:1537
+msgid "Select perpage record"
+msgstr "Ausgewählter Pagina-Datensatz"
+
+#: templates/mantella_template.php:1263 templates/mantella_template.php:1575
+msgid "Save"
+msgstr "Speichern"
+
+#: templates/mantella_template.php:1333
+msgid "Tooltip 7"
+msgstr "- Weitere Informationen werden folgen -"
+
+#: templates/mantella_template.php:1401
+msgid "Tooltip 8"
+msgstr "- Weitere Informationen werden folgen -"
+
+#: templates/mantella_template.php:1447
+msgid "Tooltip 9"
+msgstr "- Weitere Informationen werden folgen -"
+
+#: templates/mantella_template.php:1485
+msgid "Tooltip 10"
+msgstr "- Weitere Informationen werden folgen -"
+
+#: templates/mantella_template.php:1523
+msgid "Tooltip 11"
+msgstr "- Weitere Informationen werden folgen -"
+
+#: templates/mantella_template.php:1727 templates/mantella_template.php:1791
+msgid "Data received by mantella."
+msgstr "Daten von mantella erhalten."
+
+#: templates/mantella_template.php:1747
+msgid "Contact Mantella"
+msgstr "Kontakt Mantella"
+
+#: templates/mantella_template.php:1753
+msgid "Thank you for using the Dropship plugin by Mantella"
+msgstr "Vielen Dank für die Verwendung des Dropship Tool by Mantella."
+
+#: templates/mantella_template.php:1755
+msgid "If you need support, have any questions, ideas or feature requests, please contact us via"
+msgstr "Wenn Sie Unterstützung benötigen, Fragen, Ideen oder Wünsche haben, kontaktieren Sie uns bitte unter"
+
+#: templates/mantella_template.php:1757
+msgid "Support form on mantella.nl"
+msgstr "Unterstützungsformular auf mantella.nl"
+
+#: templates/mantella_template.php:1773
+msgid "Share WooCommerce Settings"
+msgstr "WooCommerce-Einstellungen senden"
+
+#: templates/mantella_template.php:1781
+msgid "Do you need support? Provide us with your standard Wordpress and WooCommerce settings for faster problem solving."
+msgstr "Brauchen Sie Unterstützung? Teilen Sie Ihre Einstellungen für Wordpress und WooCommerce mit Mantella. Mit diesen Informationen können wir Ihr Problem schneller lösen."
+
+#: templates/mantella_template.php:1783
+msgid "Click the button below to send simple and minimal settings to Mantela. We will only use this information for supporting your webshop."
+msgstr "Klicken Sie auf die Schaltfläche unten, um Ihre WooCommerce-Einstellungen an Mantella zu senden. Wir werden diese Informationen nur zur Unterstützung Ihres Webshops verwenden."
+
+#: templates/mantella_template.php:1797
+msgid "Send plugin information to Mantella"
+msgstr "Plugin-Informationen an Mantella senden"
+
+#: templates/mantella_template.php:612
+msgid "Error!"
+msgstr "Fehlermeldung:"
+
+#: templates/mantella_template.php:627
+msgid "Success!"
+msgstr "Erfolgreich:"
+
+#: templates/mantella_template.php:635
+msgid "Info!"
+msgstr "Info:"
+
+#: templates/mantella_template.php:690
+msgid "WarningMsg"
+msgstr "Die max_exeuction_time in der php.ini ist auf %d eingestellt. Um Probleme beim Importieren zu vermeiden, bitten Sie Ihren Host, dies auf 300 zu ändern."
+
+#: templates/mantella_template.php:1080
+msgid "Content Settings"
+msgstr "Inhaltseinstellungen"
+
+#: templates/mantella_template.php:1080
+msgid "Import/ Update Settings"
+msgstr "Einstellungen importieren/ aktualisieren"
+
+#: templates/mantella_template.php:1082
+msgid "Add brand name to title?"
+msgstr "Markennamen zum Titel hinzufügen?"
+
+#: templates/mantella_template.php:1095
+msgid "Please select your option"
+msgstr "Bitte wählen Sie Ihre Option"
+
+#: templates/mantella_template.php:1096
+msgid "Tooltip 52"
+msgstr "Die Produktmarke wird zum Produkttitel hinzugefügt "
+
+#: core/mantella_order_update_track.php:682
+msgid "Track Order"
+msgstr "Bestellung verfolgen"
+
+#: core/mantella_order_update_track.php:690
+msgid "Track Your Order Status"
+msgstr "Verfolgen Sie Ihren Bestellstatus"
+
+#: core/mantella_order_update_track.php:690
+msgid "Check Status"
+msgstr "Status überprüfen"
+
+#: core/mantella_order_update_track.php:693
+msgid "Enter your order number"
+msgstr "Geben Sie Ihre Bestellnummer ein"
+
+#: core/mantella_order_update_track.php:997
+msgid "Import"
+msgstr "Importieren"
+
+#: core/mantella_order_update_track.php:997
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: core/mantella_order_update_track.php:1024
+msgid "Title"
+msgstr "Titel"
+
+#: core/mantella_order_update_track.php:1038
+msgid "Product attributes"
+msgstr "Produkteigenschaften"
+
+#: core/mantella_order_update_track.php:1045
+msgid "Description"
+msgstr "Beschreibung"
+
+#: core/mantella_order_update_track.php:1052
+msgid "Shipping Class"
+msgstr "Versandklasse"
+
+#: core/mantella_order_update_track.php:1059
+msgid "Brand"
+msgstr "Marke"
+
+#: core/mantella_order_update_track.php:1065
+msgid "Images"
+msgstr "Bilder"
+
+#: core/mantella_order_update_track.php:963
+msgid "What status should newly added products have?"
+msgstr "Welchen Status sollten neu hinzugefügte Produkte haben?"
+
+#: core/mantella_order_update_track.php:965
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: core/mantella_order_update_track.php:966
+msgid "Concept"
+msgstr "Konzept"
+
+#: templates/mantella_template.php:976
+msgid "Tooltip 521"
+msgstr "Welchen Status sollen neu hinzugefügte Produkte im Webshop veröffentlichen oder entwerfen.  "
+
+#: templates/mantella_template.php:976
+msgid "More information about the attributes"
+msgstr ""
+"Globale Attribute können die Website und den Importvorgang aufgrund der großen Menge verlangsamen. Wählen Sie nur dann globale Attribute, wenn Sie auch Produktfilter in Widgets verwenden. \n"
+"\n"
+"Lokale Attribute sind Attribute auf Produktebene. Sie werden auf der Produktseite angezeigt und der Besucher kann nicht darauf filtern. \n"
+"\n"
+"Globale Attribute sind Attribute auf Website-Ebene. Sie finden sie im WP-Admin Menu unter: Produkte > Eigenschaften. Sie können diese Eigenschaften in der Seitenleiste des Shops mit den 'Layered Nav'-Widgets verwenden."
+
+#: templates/mantella_template.php
+msgid "URL1"
+msgstr "https://dropshiptool.eu/woocommerce-product-attributes-global-vs-local/"
+
+#: templates/mantella_template.php
+msgid "More info"
+msgstr "Mehr Infos"

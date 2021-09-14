@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dropship Tool by Mantella 2.0.0\n"
+"Report-Msgid-Bugs-To: https://mantella.nl/plugins/dropshipping\n"
+"Last-Translator: Mantella Support <support@mantella.nl>\n"
+"Language-Team: https://mantellahelp.zendesk.com/hc/nl-nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-12T12:48:03+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: dropship-tool-by-mantella\n"
+
+#. Plugin Name of the plugin
+msgid "Dropship Tool by Mantella Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://mantella.nl/plugins/dropshipping"
+msgstr ""
